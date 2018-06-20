@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+    <!-- Intro -->
+    <div id="introContainer">
+        <p> Welcome to the Blackjack game </p>
+        <button id="newGameButton">
+            New Game
+        </button>
+        <!-- Creates the player buttons -->
+        <div id="playerButtonContainer">
+            <p id="playerChoosing">Player Choice:</p>
+            <button id='playerHitButton' type='button'>Hit</button>
+            &nbsp;&nbsp;
+            <button id='playerStayButton' type='button'>Stay</button>
+        </div>
+    </div>
+    <!-- Winner Container -->
+    <div id="winnerContainer" style="float:left;width:100%;">
+    
+    </div>
+    <!-- Player Container -->
+    <div id="playerContainer" style="width: 50%;float:left;">
+        <p> Player cards: </p>
+        <div id="playerCards">
+        </div>
+        <div id="playerCardsValue">
+        </div>
+    </div>
+    <!-- Dealer Container -->
+    <div id="dealerContainer" style="width: 50%;float:left;">
+        <p> Dealer cards: </p>
+        <div id="dealerCards">
+        </div>
+        <div id="dealerCardsValue">
+        </div>
+    </div>
+<script src="Blackjack.js"></script>
+</body>
+</html>
