@@ -11,6 +11,3 @@ Running the Tests (Two Options):
 Built Using: 
 	JQuery 3.3.1
 	HTML5
-
-Use the following link to see it on JSFiddle
-	   http://jsfiddle.net/decrisdw/xpvt214o/273213/
