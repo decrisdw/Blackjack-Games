@@ -7,8 +7,7 @@ Running the Tests (Two Options):
 	   Works in Chrome and Firefox
 	   Have to allow scripts to run in IE
 	
-	2. Use the following link to see it on JSFiddle
-	   http://jsfiddle.net/decrisdw/xpvt214o/273213/
+	2. Use the following link to see it on JSFiddle: http://jsfiddle.net/decrisdw/xpvt214o/273213/
 
 Built Using:
 	
